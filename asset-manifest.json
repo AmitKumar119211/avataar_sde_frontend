@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b5df9c2a.css",
+    "main.js": "./static/js/main.57f38fb9.js",
+    "static/media/VR.jpg": "./static/media/VR.b0571fa6105e28cbaf06.jpg",
+    "static/media/tablet.jpg": "./static/media/tablet.dacc220052b3eacc8bea.jpg",
+    "static/media/Mouse.jpg": "./static/media/Mouse.c15bf682d4f933886543.jpg",
+    "static/media/Desktop.jpg": "./static/media/Desktop.4dcbc5faca919c1444fd.jpg",
+    "static/media/headphone.jpg": "./static/media/headphone.47bf64dce1d1ba037b94.jpg",
+    "index.html": "./index.html",
+    "main.b5df9c2a.css.map": "./static/css/main.b5df9c2a.css.map",
+    "main.57f38fb9.js.map": "./static/js/main.57f38fb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5df9c2a.css",
+    "static/js/main.57f38fb9.js"
+  ]
+}
